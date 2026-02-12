@@ -1,0 +1,199 @@
+
+====================================================================================================
+                    CHARTERED ACCOUNTANT - COMPREHENSIVE FINANCIAL REPORT
+====================================================================================================
+
+====================================================================================================
+                         TechSolutions Pvt Ltd
+                         PAN: AABCT1234E
+                         GST: 27AAPFU0939F1Z5
+                         Financial Year: 2024-25
+====================================================================================================
+
+
+================================================================================
+                    CHARTERED ACCOUNTANT - LEDGER REPORT
+================================================================================
+
+CLIENT DETAILS:
+-------------
+Name: TechSolutions Pvt Ltd
+PAN: AABCT1234E
+GSTIN: 27AAPFU0939F1Z5
+Financial Year: 2024-25
+Report Date: 12-02-2026 17:39
+
+================================================================================
+                    GENERAL LEDGER - ALL TRANSACTIONS
+================================================================================
+
+Date       | Description                  | Debit (Rs.)   | Credit (Rs.)  | Balance (Rs.) 
+-----------|------------------------------|-------------|-------------|-------------
+2024-04-01 | Opening Balance              |       0.00 |       0.00 |        0.00
+2024-04-05 | Sales Revenue - Client A     |       0.00 | 150,000.00 |  150,000.00
+2024-04-10 | Office Rent Payment          |  50,000.00 |       0.00 |  100,000.00
+2024-04-15 | IT Services - Client B       |       0.00 | 200,000.00 |  300,000.00
+2024-04-20 | Salary Payment               | 120,000.00 |       0.00 |  180,000.00
+2024-04-25 | Electricity Bill             |  15,000.00 |       0.00 |  165,000.00
+2024-05-01 | Consulting Fees - Client C   |       0.00 | 180,000.00 |  345,000.00
+2024-05-05 | Software Purchase            |  75,000.00 |       0.00 |  270,000.00
+2024-05-10 | GST Payment                  |  32,400.00 |       0.00 |  237,600.00
+2024-05-15 | Dividend Received            |       0.00 |  25,000.00 |  262,600.00
+2024-05-20 | Marketing Expenses           |  35,000.00 |       0.00 |  227,600.00
+2024-05-25 | Professional Fees            |       0.00 |  95,000.00 |  322,600.00
+2024-06-01 | TDS Deducted                 |  18,000.00 |       0.00 |  304,600.00
+2024-06-05 | Bank Interest                |       0.00 |  12,000.00 |  316,600.00
+2024-06-10 | Insurance Premium            |  25,000.00 |       0.00 |  291,600.00
+2024-06-15 | Equipment Purchase           | 100,000.00 |       0.00 |  191,600.00
+
+================================================================================
+                    SUMMARY OF TRANSACTIONS
+================================================================================
+
+Total Debits:  Rs.      470,400.00
+Total Credits: Rs.      662,000.00
+Opening Balance: Rs.         0.00
+Closing Balance: Rs.   191,600.00
+
+Net Profit/Loss: Rs.    191,600.00
+
+================================================================================
+
+================================================================================
+                    PROFIT & LOSS STATEMENT
+================================================================================
+
+For the Period: 2024-25
+Company: TechSolutions Pvt Ltd
+
+================================================================================
+INCOME:
+================================================================================
+Sales Revenue                           Rs.                          662,000.00
+Other Income                           Rs.                                0.00
+────────────────────────────────────────────────────────────────────────────────
+TOTAL INCOME                           Rs.                          662,000.00
+
+================================================================================
+EXPENSES:
+================================================================================
+Operating Expenses                     Rs.                          245,000.00
+Administrative Expenses               Rs.                                0.00
+Depreciation                          Rs.                                0.00
+────────────────────────────────────────────────────────────────────────────────
+TOTAL EXPENSES                        Rs.                          245,000.00
+
+================================================================================
+PROFIT BEFORE TAX                     Rs.                          417,000.00
+
+Tax Estimate (25.17%):                Rs.                          104,958.90
+Profit After Tax:                     Rs.                          312,041.10
+
+================================================================================
+
+================================================================================
+                    BALANCE SHEET
+================================================================================
+
+As on: 12-02-2026
+Company: TechSolutions Pvt Ltd
+
+================================================================================
+ASSETS                           Amount (Rs.)      LIABILITIES                    Amount (Rs.)
+================================================================================
+
+Current Assets:                              Current Liabilities:
+Cash & Bank                191,600.00      GST Payable                      50,400.00
+Investments             1,459,250.00      TDS Payable                      0.00
+Fixed Assets              175,000.00      Other Liabilities                 0.00
+Other Assets                    0.00      
+                                           ─────────────                         ─────────────
+TOTAL ASSETS            1,825,850.00      TOTAL LIABILITIES              50,400.00
+
+                                           SHAREHOLDER'S EQUITY
+                                           Share Capital                    500,000.00
+                                           Retained Earnings            1,275,450.00
+                                           ─────────────
+                                           TOTAL EQUITY                  1,775,450.00
+
+================================================================================
+TOTAL LIABILITIES & EQUITY        1,825,850.00
+================================================================================
+
+================================================================================
+                    INVESTMENT PORTFOLIO REPORT
+================================================================================
+
+INVESTMENT SUMMARY:
+------------------
+Total Client: TechSolutions Pvt Ltd
+Valuation Date: 12-02-2026
+
+================================================================================
+Investment Type   | Purchase Date | Purchase (Rs.) | Current (Rs.) | Returns % | Period    | Tax Implication
+------------------|---------------|--------------|-------------|-----------|-----------|-----------------
+Fixed Deposit    | 2023-04-01 |  500,000.00 |  537,500.00 |     7.5% | 1 year    | Taxable as per slab
+PPF              | 2022-06-01 |  150,000.00 |  171,000.00 |    14.0% | 2 years   | EEE - Exempt   
+Mutual Funds     | 2023-01-15 |  200,000.00 |  248,000.00 |    24.0% | 1.5 years | LTCG > 1L taxed at 10%
+Stocks - Reliance | 2024-02-01 |  100,000.00 |  112,000.00 |    12.0% | 4 months  | STCG taxed at 15%
+Gold ETF         | 2023-11-01 |   75,000.00 |   81,750.00 |     9.0% | 7 months  | LTCG if held >3 years
+Corporate Bonds  | 2024-01-01 |  300,000.00 |  309,000.00 |     3.0% | 5 months  | Taxable as per slab
+
+================================================================================
+PORTFOLIO SUMMARY:
+-----------------
+Total Investment Value (Purchase): Rs.    1,325,000.00
+Total Investment Value (Current):  Rs.    1,459,250.00
+Absolute Returns:                  Rs.      134,250.00
+Returns Percentage:                         10.13%
+
+================================================================================
+TAX PLANNING RECOMMENDATIONS:
+---------------------------
+1. Section 80C: Invest up to ₹1,50,000 in PPF/ELSS for tax deduction
+2. Long-term Capital Gains: Hold equity investments for >1 year for LTCG benefit
+3. Debt Funds: Hold for >3 years for indexation benefit
+4. Tax-free bonds: Consider for tax-free interest income
+
+================================================================================
+
+====================================================================================================
+                    CHARTERED ACCOUNTANT - AUDIT OBSERVATIONS & RECOMMENDATIONS
+====================================================================================================
+
+1. TAX COMPLIANCE:
+   ✓ GST Returns filed regularly
+   ✓ TDS deducted and deposited on time
+   ⚠ Advance tax payments due for next quarter
+
+2. AUDIT FINDINGS:
+   ✓ Books of accounts are properly maintained
+   ✓ All transactions are supported by valid documents
+   ⚠ Inventory valuation method needs consistency
+
+3. INVESTMENT ADVICE:
+   ✓ Consider diversifying into debt funds for stability
+   ⚠ Review underperforming mutual funds
+   ✓ PPF extension recommended for continued tax benefits
+
+4. RISK ASSESSMENT:
+   • Credit Risk: Low - Healthy collection period
+   • Market Risk: Medium - Equity exposure in portfolio
+   • Compliance Risk: Low - Regular filings maintained
+
+5. RECOMMENDATIONS FOR NEXT QUARTER:
+   • Increase Section 80C investments before March
+   • Reconcile GST input credit claims
+   • Review outstanding receivables over 90 days
+   • Consider health insurance for additional 80D deduction
+
+====================================================================================================
+Report Generated by: CA-GPT AI System
+Chartered Accountant (Virtual)
+Date: 12-02-2026 17:39:57
+====================================================================================================
+
+DISCLAIMER: This report is AI-generated and should be reviewed 
+by a qualified Chartered Accountant before finalization.
+
+====================================================================================================
